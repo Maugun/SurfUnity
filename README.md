@@ -27,7 +27,7 @@ It was made in 2019 with [Unity3D 2019.2.0f1](https://unity3d.com/fr/get-unity/d
 
 ## Video
 
-[![Watch the video](https://img.youtube.com/vi/T-vLlvrxO5YEY/maxresdefault.jpg)](https://youtu.be/vLlvrxO5YEY)
+[![Watch the video]](https://youtu.be/vLlvrxO5YEY)
 
 ## Images
 
