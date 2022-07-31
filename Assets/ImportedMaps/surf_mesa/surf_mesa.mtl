@@ -1,0 +1,186 @@
+# maps/surf_mesa/concrete/concretefloor039a_0_9920_6848
+newmtl material_0
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_mesa_material_0.jpg
+
+# VTEXTURES/NEON_B2
+newmtl material_1
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_mesa_material_1.jpg
+
+# CONCRETE/CONCRETEWALL011C
+newmtl material_2
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_mesa_material_2.jpg
+
+# CONCRETE/CONCRETEWALL011H
+newmtl material_3
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_mesa_material_3.jpg
+
+# VTEXTURES/NEON_B
+newmtl material_4
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_mesa_material_4.jpg
+
+# maps/surf_mesa/floor/bathroom_tile_floor_lg_0_9920_6848
+newmtl material_5
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_mesa_material_5.jpg
+
+# maps/surf_mesa/glass/combineglass001a_0_9920_6848
+newmtl material_6
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+illum 0
+map_Kd surf_mesa_material_6.jpg
+
+# GM_CONSTRUCT/TANKS
+newmtl material_7
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_mesa_material_7.jpg
+
+# CUSTOM_NATURE/ANIMATEDLAVA2
+newmtl material_8
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_mesa_material_8.jpg
+
+# nature/water_caribbean01_beneath
+newmtl material_9
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+illum 0
+map_Kd surf_mesa_material_9.jpg
+
+newmtl material_10
+Kd 1.0000 1.0000 1.0000
+illum 0
+
+# GM_CONSTRUCT/BLEND_ROCKROCK
+newmtl material_11
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_mesa_material_11.jpg
+
+# GM_CONSTRUCT/BLEND_SANDROCK
+newmtl material_12
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_mesa_material_12.jpg
+
+# GM_CONSTRUCT/BLEND_SANDGRASS
+newmtl material_13
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_mesa_material_13.jpg
+
+# VGUI/DECKPLANS/MAP_ICONS/NEEDS_BUTTONS/MALE_WC_BUT_P
+newmtl material_14
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_mesa_material_14.jpg
+
+# VGUI/DECKPLANS/MAP_ICONS/NEEDS_BUTTONS/FEMALE_WC_BUT_P
+newmtl material_15
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_mesa_material_15.jpg
+
+# VGUI/DECKPLANS/MAP_ICONS/NEEDS_BUTTONS/SLEEP_BUT_P
+newmtl material_16
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_mesa_material_16.jpg
+
+# VGUI/DECKPLANS/MAP_ICONS/NEEDS_BUTTONS/TEAM_BUT_P
+newmtl material_17
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_mesa_material_17.jpg
+
+# VGUI/DECKPLANS/MAP_ICONS/NEEDS_BUTTONS/DRINK_BUT_P
+newmtl material_18
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_mesa_material_18.jpg
+
+# VGUI/DECKPLANS/MAP_ICONS/NEEDS_BUTTONS/BANK_BUT_P
+newmtl material_19
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_mesa_material_19.jpg
+
+# models\props_nature\rock01_sg
+newmtl material_20
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_mesa_material_20.jpg
+
+# models\props_nature\BambooLeaves01_sg
+newmtl material_21
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_mesa_material_21.jpg
+
+# models\props_warehouse\handrail01_sg
+newmtl material_22
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_mesa_material_22.jpg
+
+# models\props_mining\stalactite_rock02
+newmtl material_23
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_mesa_material_23.jpg
+
+# models\props\de_nuke\light_wall
+newmtl material_24
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_mesa_material_24.jpg
+
+# models\props_wasteland\rockcliff02c
+newmtl material_25
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_mesa_material_25.jpg
+
+# models\props_desert\desert_cactus_01
+newmtl material_26
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_mesa_material_26.jpg
+
+# Common\Nature\trees_orex
+newmtl material_27
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_mesa_material_27.jpg
+
+# Common\Nature\trees_bark
+newmtl material_28
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_mesa_material_28.jpg
+
+# models\props_lambda\c3a2e_blastdoor_frame
+newmtl material_29
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_mesa_material_29.jpg
+
+# models\props_lambda\c3a2e_blastdoors
+newmtl material_30
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_mesa_material_30.jpg
+

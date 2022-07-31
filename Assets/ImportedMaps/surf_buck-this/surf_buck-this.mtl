@@ -1,0 +1,356 @@
+# DE_TRAIN/TRAIN_METALCEILING_02
+newmtl material_0
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_buck-this_material_0.jpg
+
+# DE_CBBLE/GRASSFLOOR01
+newmtl material_1
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_buck-this_material_1.jpg
+
+# CONCRETE/MILFLR001
+newmtl material_2
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_buck-this_material_2.jpg
+
+# CS_ITALY/IRONMETAL01
+newmtl material_3
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_buck-this_material_3.jpg
+
+# PROPS/CARPETFLOOR008A
+newmtl material_4
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_buck-this_material_4.jpg
+
+# METAL/CITADEL_TILEFLOOR016A
+newmtl material_5
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_buck-this_material_5.jpg
+
+# GLASS/UNBREAKABLE
+newmtl material_6
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+illum 0
+map_Kd surf_buck-this_material_6.jpg
+
+# STONE/MARBLEFLOOR001B
+newmtl material_7
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_buck-this_material_7.jpg
+
+# TILE/TILEFLOOR005A
+newmtl material_8
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_buck-this_material_8.jpg
+
+# BUCKNASTY/INSANITYVMF
+newmtl material_9
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+illum 0
+map_Kd surf_buck-this_material_9.jpg
+
+# BUCKNASTY/DROUGHTVMF
+newmtl material_10
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+illum 0
+map_Kd surf_buck-this_material_10.jpg
+
+# BUCKNASTY/THRILLER2VMF
+newmtl material_11
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+illum 0
+map_Kd surf_buck-this_material_11.jpg
+
+# BUCKNASTY/HANGTIMERELOADVMF
+newmtl material_12
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+illum 0
+map_Kd surf_buck-this_material_12.jpg
+
+# BUCKNASTY/THRILLER3VMF
+newmtl material_13
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+illum 0
+map_Kd surf_buck-this_material_13.jpg
+
+# BUCKNASTY/SPACEDOUT2VMF
+newmtl material_14
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+illum 0
+map_Kd surf_buck-this_material_14.jpg
+
+# METAL/PRODCAUTION
+newmtl material_15
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_buck-this_material_15.jpg
+
+# BUCKNASTY/BUCKNASTY
+newmtl material_16
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+illum 0
+map_Kd surf_buck-this_material_16.jpg
+
+# BUCKNASTY/AMPAVMF
+newmtl material_17
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+illum 0
+map_Kd surf_buck-this_material_17.jpg
+
+# BUCKNASTY/BUCKAROUNDVMF
+newmtl material_18
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+illum 0
+map_Kd surf_buck-this_material_18.jpg
+
+# BUCKNASTY/BUCKEDUPVMF
+newmtl material_19
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+illum 0
+map_Kd surf_buck-this_material_19.jpg
+
+# BUCKNASTY/BFEVERVMF
+newmtl material_20
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+illum 0
+map_Kd surf_buck-this_material_20.jpg
+
+# BUCKNASTY/B-WVMF
+newmtl material_21
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+illum 0
+map_Kd surf_buck-this_material_21.jpg
+
+# BUCKNASTY/10XRVMF
+newmtl material_22
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+illum 0
+map_Kd surf_buck-this_material_22.jpg
+
+# BUCKNASTY/NOCTURNALVMF
+newmtl material_23
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+illum 0
+map_Kd surf_buck-this_material_23.jpg
+
+# BUCKNASTY/SPACEDOUTVMF
+newmtl material_24
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+illum 0
+map_Kd surf_buck-this_material_24.jpg
+
+# BUCKNASTY/AMPVMF
+newmtl material_25
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+illum 0
+map_Kd surf_buck-this_material_25.jpg
+
+# METAL/METALFLOOR007A
+newmtl material_26
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_buck-this_material_26.jpg
+
+# DE_CBBLE/DOOR011
+newmtl material_27
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_buck-this_material_27.jpg
+
+# BUCKNASTY/BULLSEYE
+newmtl material_28
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+illum 0
+map_Kd surf_buck-this_material_28.jpg
+
+# nature/water_dx70_beneath
+newmtl material_29
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+illum 0
+map_Kd surf_buck-this_material_29.jpg
+
+# BUCKNASTY/BUCKWATER
+newmtl material_30
+Kd 0.0784 0.1647 0.1529
+d 1.0000
+illum 0
+map_Kd surf_buck-this_material_30.jpg
+
+# BUCKNASTY/GAJ
+newmtl material_31
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+illum 0
+map_Kd surf_buck-this_material_31.jpg
+
+# BUCKNASTY/BUCKAJ
+newmtl material_32
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+illum 0
+map_Kd surf_buck-this_material_32.jpg
+
+# NATURE/WATER_CANALS03_DX70
+newmtl material_33
+Kd 0.0784 0.1647 0.1529
+d 1.0000
+illum 0
+map_Kd surf_buck-this_material_33.jpg
+
+# CS_HAVANA/WOODM
+newmtl material_34
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_buck-this_material_34.jpg
+
+# METAL/METALGATE005A
+newmtl material_35
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+illum 0
+map_Kd surf_buck-this_material_35.jpg
+
+# BUCKNASTY/THRILLERVMF
+newmtl material_36
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+illum 0
+map_Kd surf_buck-this_material_36.jpg
+
+# models\props\de_tides\lights_studio
+newmtl material_37
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_buck-this_material_37.jpg
+
+# models\weapons\w_models\w_snip_scout\w_snip_scout
+newmtl material_38
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_buck-this_material_38.jpg
+
+# models\weapons\w_models\w_rif_ak47\w_rif_ak47
+newmtl material_39
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_buck-this_material_39.jpg
+
+# models\weapons\w_models\w_rif_m4a1\w_rif_m4a1
+newmtl material_40
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_buck-this_material_40.jpg
+
+# models\weapons\w_models\w_shot_m3super90\w_shot_m3super90
+newmtl material_41
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_buck-this_material_41.jpg
+
+# models\weapons\w_models\w_rif_aug\w_rif_aug
+newmtl material_42
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_buck-this_material_42.jpg
+
+# models\weapons\w_models\w_rif_sg552\w_rif_sg552
+newmtl material_43
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_buck-this_material_43.jpg
+
+# models\weapons\w_models\w_shot_xm1014\w_shot_xm1014
+newmtl material_44
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_buck-this_material_44.jpg
+
+# models\weapons\w_models\w_smg_tmp\w_smg_tmp
+newmtl material_45
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_buck-this_material_45.jpg
+
+# models\weapons\w_models\w_smg_p90\w_smg_p90
+newmtl material_46
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_buck-this_material_46.jpg
+
+# models\weapons\w_models\w_smg_mp5\w_smg_mp5
+newmtl material_47
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_buck-this_material_47.jpg
+
+# models\weapons\w_models\w_smg_ump45\w_smg_ump45
+newmtl material_48
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_buck-this_material_48.jpg
+
+# models\weapons\w_models\w_eq_fraggrenade\w_eq_fraggrenade
+newmtl material_49
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_buck-this_material_49.jpg
+
+# models\props_junk/glass_objects01
+newmtl material_50
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+illum 0
+map_Kd surf_buck-this_material_50.jpg
+
+# models\weapons\w_models\w_mach_m249\w_mach_m249
+newmtl material_51
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_buck-this_material_51.jpg
+
+# models\weapons\w_models\w_pist_deagle\w_pist_deagle
+newmtl material_52
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_buck-this_material_52.jpg
+
+# models\weapons\w_models\w_snip_awp\w_snip_awp
+newmtl material_53
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_buck-this_material_53.jpg
+
+# models\weapons\w_models\w_snip_g3sg1\w_snip_g3sg1
+newmtl material_54
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_buck-this_material_54.jpg
+

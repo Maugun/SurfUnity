@@ -1,0 +1,368 @@
+# CS_ITALY/IRONMETAL01
+newmtl material_0
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_ski_2_material_0.jpg
+
+# NATURE/SNOWFLOOR001A
+newmtl material_1
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_ski_2_material_1.jpg
+
+# CONCRETE/CONCRETEFLOOR006A
+newmtl material_2
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_ski_2_material_2.jpg
+
+# DE_CBBLE/WOODCEILING01
+newmtl material_3
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_ski_2_material_3.jpg
+
+# ENVIRONMENT MAPS/PIPEMETAL004B
+newmtl material_4
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_ski_2_material_4.jpg
+
+# METAL/METALFLOOR007A
+newmtl material_5
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_ski_2_material_5.jpg
+
+# DE_NUKE/NUKE_CEILING_02
+newmtl material_6
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_ski_2_material_6.jpg
+
+# DE_NUKE/NUKMETWALLAB
+newmtl material_7
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_ski_2_material_7.jpg
+
+# ENVIRONMENT MAPS/PIPEMETAL001A
+newmtl material_8
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_ski_2_material_8.jpg
+
+# DE_TRAIN/TRAIN_METALCEILING_02
+newmtl material_9
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_ski_2_material_9.jpg
+
+# CS_HAVANA/METALFENCE007A
+newmtl material_10
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+illum 0
+map_Kd surf_ski_2_material_10.jpg
+
+# METAL/METALFENCE007A
+newmtl material_11
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+illum 0
+map_Kd surf_ski_2_material_11.jpg
+
+# MODELS/PROPS_WASTELAND/FENCE_ALPHA
+newmtl material_12
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_ski_2_material_12.jpg
+
+# PROPS/PLASTICEXITSIGN001B
+newmtl material_13
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_ski_2_material_13.jpg
+
+# PROPS/PLASTICEXITSIGN002A
+newmtl material_14
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_ski_2_material_14.jpg
+
+# CABLE/BLUE
+newmtl material_15
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_ski_2_material_15.jpg
+
+# CS_ITALY/BLACK
+newmtl material_16
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_ski_2_material_16.jpg
+
+# CS_ITALY/BOXSIDES_T01
+newmtl material_17
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_ski_2_material_17.jpg
+
+# CONCRETE/CONCRETEFLOOR014A
+newmtl material_18
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_ski_2_material_18.jpg
+
+# CABLE/GREEN
+newmtl material_19
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_ski_2_material_19.jpg
+
+# CABLE/RED
+newmtl material_20
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_ski_2_material_20.jpg
+
+# CS_ITALY/YELLOW
+newmtl material_21
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_ski_2_material_21.jpg
+
+newmtl material_22
+Kd 1.0000 1.0000 1.0000
+illum 0
+
+# METAL/METALPIPE001A
+newmtl material_23
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_ski_2_material_23.jpg
+
+# CS_HAVANA/WHITE
+newmtl material_24
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_ski_2_material_24.jpg
+
+# CS_HAVANA/WOODM
+newmtl material_25
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_ski_2_material_25.jpg
+
+# PROPS/DOORBUTTON002A
+newmtl material_26
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_ski_2_material_26.jpg
+
+# nature/water_dx70_beneath
+newmtl material_27
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+illum 0
+map_Kd surf_ski_2_material_27.jpg
+
+# NATURE/WATER_CANALS_CITY_MURKY_DX70
+newmtl material_28
+Kd 0.1961 0.1569 0.1765
+d 1.0000
+illum 0
+map_Kd surf_ski_2_material_28.jpg
+
+# nature/water_movingplane_beneath
+newmtl material_29
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+illum 0
+map_Kd surf_ski_2_material_29.jpg
+
+# NATURE/WATER_MOVINGPLANE
+newmtl material_30
+Kd 0.3137 0.2510 0.1490
+d 1.0000
+illum 0
+map_Kd surf_ski_2_material_30.jpg
+
+# LIQUIDS/AZTECWATER
+newmtl material_31
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+illum 0
+map_Kd surf_ski_2_material_31.jpg
+
+# dev/dev_waterbeneath2
+newmtl material_32
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+illum 0
+map_Kd surf_ski_2_material_32.jpg
+
+# LIQUIDS/MILITIAWATER
+newmtl material_33
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+illum 0
+map_Kd surf_ski_2_material_33.jpg
+
+# liquids/militiaWaterbeneath
+newmtl material_34
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+illum 0
+map_Kd surf_ski_2_material_34.jpg
+
+# METAL/METALDOOR003A
+newmtl material_35
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_ski_2_material_35.jpg
+
+# DE_NUKE/NUKE_METALFLOOR_01
+newmtl material_36
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_ski_2_material_36.jpg
+
+# SPRITES/640HUD7
+newmtl material_37
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_ski_2_material_37.jpg
+
+# models\props\cs_office\Chair_office
+newmtl material_38
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_ski_2_material_38.jpg
+
+# models\props\cs_office\File_cabinet1
+newmtl material_39
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_ski_2_material_39.jpg
+
+# models\props\cs_office\computer
+newmtl material_40
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_ski_2_material_40.jpg
+
+# models\props\cs_office\screen
+newmtl material_41
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_ski_2_material_41.jpg
+
+# models\props\cs_office\computer_case
+newmtl material_42
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_ski_2_material_42.jpg
+
+# models\props\cs_office\Plant01
+newmtl material_43
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_ski_2_material_43.jpg
+
+# models\props\cs_office\Plant02
+newmtl material_44
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_ski_2_material_44.jpg
+
+# models\props\cs_office\phone
+newmtl material_45
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_ski_2_material_45.jpg
+
+# models\props\cs_office\Projector
+newmtl material_46
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_ski_2_material_46.jpg
+
+# models\props\cs_office\Table_coffee
+newmtl material_47
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_ski_2_material_47.jpg
+
+# models\props\cs_office\trash_can
+newmtl material_48
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_ski_2_material_48.jpg
+
+# models\props_c17/furniturecouch001a
+newmtl material_49
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_ski_2_material_49.jpg
+
+# models\props_interiors/furniture_couch01a
+newmtl material_50
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_ski_2_material_50.jpg
+
+# models\props_interiors/furniture_couch02a
+newmtl material_51
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_ski_2_material_51.jpg
+
+# models\weapons\w_models\w_snip_scout\w_snip_scout
+newmtl material_52
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_ski_2_material_52.jpg
+
+# models\weapons\w_models\w_snip_awp\w_snip_awp
+newmtl material_53
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_ski_2_material_53.jpg
+
+# models\weapons\w_models\w_smg_tmp\w_smg_tmp
+newmtl material_54
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_ski_2_material_54.jpg
+
+# models\weapons\w_models\w_rif_ak47\w_rif_ak47
+newmtl material_55
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_ski_2_material_55.jpg
+
+# models\weapons\w_models\w_rif_m4a1\w_rif_m4a1
+newmtl material_56
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_ski_2_material_56.jpg
+
+# models\weapons\w_models\w_eq_fraggrenade\w_eq_fraggrenade
+newmtl material_57
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_ski_2_material_57.jpg
+
+# models\weapons\w_models\w_pist_deagle\w_pist_deagle
+newmtl material_58
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_ski_2_material_58.jpg
+
+# models\shadertest\predator
+newmtl material_59
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd \root\counter-strike source shared.gcf\cstrike\materials\models\Shadertest\predator.vmt
+

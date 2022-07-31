@@ -1,0 +1,180 @@
+# NEONS/NEON_GREEN
+newmtl material_0
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_kitsune_material_0.jpg
+
+# GRIDS/GRID_GREEN
+newmtl material_1
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_kitsune_material_1.jpg
+
+# RAMPS/CONCRETEFLOOR039A
+newmtl material_2
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_kitsune_material_2.jpg
+
+# CUSTOM/RAINBOWSCROLL
+newmtl material_3
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_kitsune_material_3.jpg
+
+# GRIDS/GRID_WHITE
+newmtl material_4
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_kitsune_material_4.jpg
+
+# GRIDS/GRID_RED
+newmtl material_5
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_kitsune_material_5.jpg
+
+# LIGHTS/WHITE001
+newmtl material_6
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_kitsune_material_6.jpg
+
+# NEONS/NEON_RED
+newmtl material_7
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_kitsune_material_7.jpg
+
+# NEONS/NEON_ORANGE
+newmtl material_8
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_kitsune_material_8.jpg
+
+# NEONS/NEON_YELLOW
+newmtl material_9
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_kitsune_material_9.jpg
+
+# NEONS/NEON_TEAL
+newmtl material_10
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_kitsune_material_10.jpg
+
+# NEONS/NEON_BLUE
+newmtl material_11
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_kitsune_material_11.jpg
+
+# NEONS/NEON_PINK
+newmtl material_12
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_kitsune_material_12.jpg
+
+# NEONS/NEON_PURPLE
+newmtl material_13
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_kitsune_material_13.jpg
+
+# GRIDS/GRID_TEAL
+newmtl material_14
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_kitsune_material_14.jpg
+
+# GRIDS/GRID_ORANGE
+newmtl material_15
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_kitsune_material_15.jpg
+
+# GRIDS/GRID_PINK
+newmtl material_16
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_kitsune_material_16.jpg
+
+# GRIDS/GRID_YELLOW
+newmtl material_17
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_kitsune_material_17.jpg
+
+# GRIDS/GRID_BLUE
+newmtl material_18
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_kitsune_material_18.jpg
+
+# GRIDS/GRID_PURPLE
+newmtl material_19
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_kitsune_material_19.jpg
+
+# CONCRETE/CONCRETEFLOOR039A
+newmtl material_20
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_kitsune_material_20.jpg
+
+# NEONS/NEON_PINK_NOGLOW
+newmtl material_21
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_kitsune_material_21.jpg
+
+# NEONS/NEON_PURPLE_NOGLOW
+newmtl material_22
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_kitsune_material_22.jpg
+
+# NEONS/NEON_BLUE_NOGLOW
+newmtl material_23
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_kitsune_material_23.jpg
+
+# NEONS/NEON_TEAL_NOGLOW
+newmtl material_24
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_kitsune_material_24.jpg
+
+# NEONS/NEON_GREEN_NOGLOW
+newmtl material_25
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_kitsune_material_25.jpg
+
+# NEONS/NEON_YELLOW_NOGLOW
+newmtl material_26
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_kitsune_material_26.jpg
+
+# NEONS/NEON_RED_NOGLOW
+newmtl material_27
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_kitsune_material_27.jpg
+
+# NEONS/NEON_ORANGE_NOGLOW
+newmtl material_28
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_kitsune_material_28.jpg
+
+# VGUI/DECKPLANS/MAP_ICONS/NEEDS_BUTTONS/TEAM_BUT_P
+newmtl material_29
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_kitsune_material_29.jpg
+

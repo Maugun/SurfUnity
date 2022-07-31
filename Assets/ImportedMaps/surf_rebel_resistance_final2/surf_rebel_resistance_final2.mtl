@@ -1,0 +1,146 @@
+# METAL/CITADEL_TILEWALL005A
+newmtl material_0
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_rebel_resistance_final2_material_0.jpg
+
+# METAL/CITADEL_METALWALL090A
+newmtl material_1
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_rebel_resistance_final2_material_1.jpg
+
+# METAL/CITADEL_METALWALL078A
+newmtl material_2
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_rebel_resistance_final2_material_2.jpg
+
+# LIQUIDS/WATER_PRETTY1
+newmtl material_3
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+illum 0
+map_Kd surf_rebel_resistance_final2_material_3.jpg
+
+# dev/dev_waterbeneath2
+newmtl material_4
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+illum 0
+map_Kd surf_rebel_resistance_final2_material_4.jpg
+
+# CS_ITALY/BLACK
+newmtl material_5
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_rebel_resistance_final2_material_5.jpg
+
+# NATURE/WATER_MOVINGPLANE_BENEATH
+newmtl material_6
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+illum 0
+map_Kd surf_rebel_resistance_final2_material_6.jpg
+
+# VEHICLE/RUBBERTRAINFLOOR001A
+newmtl material_7
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_rebel_resistance_final2_material_7.jpg
+
+# METAL/PRODCAUTION
+newmtl material_8
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_rebel_resistance_final2_material_8.jpg
+
+# EFFECTS/COMBINESHIELD/COMSHIELDWALL
+newmtl material_9
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_rebel_resistance_final2_material_9.jpg
+
+# GLASS/OFFWNDWB
+newmtl material_10
+Kd 1.0000 1.0000 1.0000
+d 1.0000
+illum 0
+map_Kd surf_rebel_resistance_final2_material_10.jpg
+
+newmtl material_11
+Kd 1.0000 1.0000 1.0000
+illum 0
+
+# PROPS/WOODCRATE003D
+newmtl material_12
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_rebel_resistance_final2_material_12.jpg
+
+# models\props_combine/weaponstripper_sheet
+newmtl material_13
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_rebel_resistance_final2_material_13.jpg
+
+# models\props_combine\combine_interface001
+newmtl material_14
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_rebel_resistance_final2_material_14.jpg
+
+# models\weapons\w_models\w_rif_m4a1\w_rif_m4a1
+newmtl material_15
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_rebel_resistance_final2_material_15.jpg
+
+# models\weapons\w_models\w_rif_ak47\w_rif_ak47
+newmtl material_16
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_rebel_resistance_final2_material_16.jpg
+
+# models\weapons\w_models\w_snip_awp\w_snip_awp
+newmtl material_17
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_rebel_resistance_final2_material_17.jpg
+
+# models\weapons\w_models\w_snip_sg550\w_snip_sg550
+newmtl material_18
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_rebel_resistance_final2_material_18.jpg
+
+# models\weapons\w_models\w_mach_m249\w_mach_m249
+newmtl material_19
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_rebel_resistance_final2_material_19.jpg
+
+# models\weapons\w_models\w_pist_deagle\w_pist_deagle
+newmtl material_20
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_rebel_resistance_final2_material_20.jpg
+
+# models\weapons\w_models\w_shot_m3super90\w_shot_m3super90
+newmtl material_21
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_rebel_resistance_final2_material_21.jpg
+
+# models\weapons\w_models\w_smg_mp5\w_smg_mp5
+newmtl material_22
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_rebel_resistance_final2_material_22.jpg
+
+# models\weapons\w_models\w_shot_xm1014\w_shot_xm1014
+newmtl material_23
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd surf_rebel_resistance_final2_material_23.jpg
+
