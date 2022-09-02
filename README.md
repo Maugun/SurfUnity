@@ -1,11 +1,11 @@
 # Surf Unity
 
-**Surf Unity** is an implementation of [Source (Valve)](<https://en.wikipedia.org/wiki/Source_(game_engine)>) physics in Unity to "surf" like in the [surf game mode](https://www.youtube.com/watch?v=I21aWQLDJwo&ab_channel=KSFrecords) of Counter-Strike.
+**Surf Unity** is an implementation of [Source (Valve)](<https://en.wikipedia.org/wiki/Source_(game_engine)>) physics in Unity to "surf" like in Counter-Strike's [surf game mode](https://www.youtube.com/watch?v=I21aWQLDJwo&ab_channel=KSFrecords).
 
 It contains:
 
-- Source physics in Unity
-- Some imported Counter-Strike Surf Maps & some tests maps
+- An implementation of Source physics in Unity
+- Some imported Counter-Strike Surf maps & some test maps
 - A hookshot to help new players
 - A slow motion mode to help new players
 - An auto bunny hop
